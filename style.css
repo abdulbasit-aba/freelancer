@@ -53,4 +53,19 @@
 #portfolio h1{
     font-size: 3rem !important;
 }
+
+#about h1{
+     font-size: 3rem !important;
+}
+
+#contact h1{
+     font-size: 3rem !important;
+}
+
+#contact input,textarea{
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+}
+
 }
