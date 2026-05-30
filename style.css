@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#hero img{
+ height: 9rem;   
+ width: 9rem;
+}
+
+#hero{
+    height: 100vh;
+    
+}
+
+#hero h1{
+    font-size:500% !important;
+}
+
+#portfolio h1{
+    font-size: 500% !important;
+}
+
+#portfolio img{
+   border-radius: 2%;
+}
+
+#about h1{
+     font-size: 500% !important;
+}
+
+#contact h1{
+     font-size: 490% !important;
+}
+
+#contact input,textarea{
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+}
