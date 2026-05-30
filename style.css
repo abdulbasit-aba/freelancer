@@ -38,3 +38,19 @@
     border-left: none !important;
     border-right: none !important;
 }
+
+
+@media screen and (max-width:426px) {
+    #hero{
+    height: 100%;
+    
+}
+
+#hero h1{
+    font-size:3rem !important;
+}
+
+#portfolio h1{
+    font-size: 3rem !important;
+}
+}
